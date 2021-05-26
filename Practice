@@ -1,2 +1,10 @@
 <!-- style property to change color of text -->
 <h1 style="color:red;">Website</h1>
+
+<!-- Another way to change the style of text, just type the element and all text inside it will be styled-->
+<style>
+  h1{color:red;}
+</style>
+<style>
+  p{color:red;}
+</style>
