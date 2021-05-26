@@ -1,1 +1,2 @@
-
+/* style property to change color of text */
+<h1 style="color:red">Website</h1>
